@@ -1,7 +1,7 @@
 
 ## Descrição
 
-O projeto foi criado com React e utiliza Hooks e uma API externa para conversão das moedas baseados no mercado atual.
+O projeto foi criado com React e utiliza Hooks e uma API externa para conversão das moedas baseado no mercado atual.
 
 ### `npm start`
 
